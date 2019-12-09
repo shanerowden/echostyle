@@ -11,7 +11,7 @@ Or they are random things that kinda sort of go with that.
 
 ## EchoStyle objects
 
-Theser are based in this:
+These are based in this:
 
 ```
     COLORCODE = { 
@@ -25,7 +25,7 @@ Theser are based in this:
         'w': 7   # white 
         } 
     
-    FORMATCODE = { Thiu
+    FORMATCODE = { 
                   'b': 1,  # bold 
                   'f': 2,  # faint 
                   'i': 3,  # italic 
