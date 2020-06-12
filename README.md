@@ -1,4 +1,4 @@
-# zenstyle
+# echostyle
 
 Pretty much the basis of this lib is: All the scripts within it use echostyle.EchoStyle objects to make their terminal interface prettier and prepared out of the box. 
 
